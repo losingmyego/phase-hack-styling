@@ -1,0 +1,15 @@
+.card-header-swap {
+    text-align: initial;
+}
+
+.swap-msg-btn {
+    margin-left: 12rem;
+}
+
+.swap-card {
+    padding: 1rem;
+    border-radius: 16px;
+    box-shadow: none;
+    background-color: #FFF9F7;
+
+}
